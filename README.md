@@ -1,7 +1,3 @@
-Certainly! Below is an English version of a README for your Streamlit website:
-
----
-
 # Streamlit Website
 
 ## Overview
